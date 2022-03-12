@@ -20,3 +20,9 @@ ul{
     background-color: red;
     color: white;
 }
+
+.directions-title{
+    color: yellow;
+    background-color: hotpink;
+    text-align: right;
+}
